@@ -12,5 +12,5 @@ Appium, Selenium, Selenide и Rest Assured.
 
 
 Language and Tools:
-elasticsearch figma git java jenkins kibana mssql postgresql postman selenium
+
 
