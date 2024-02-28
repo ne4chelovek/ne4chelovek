@@ -11,4 +11,6 @@ Appium, Selenium, Selenide и Rest Assured.
 Я хорошо понимаю методологию Page Object и имею опыт интеграции тестовых сценариев с системами непрерывной интеграции, такими как Jenkins. Кроме того, я имею опыт работы с Allure для создания информативных отчетов о тестировании. 
 
 
-Language and Tools
+Language and Tools:
+![image](https://github.com/ne4chelovek/ne4chelovek/assets/137280143/84fe3f83-7b3f-475c-84e3-734ea61a0812)
+
