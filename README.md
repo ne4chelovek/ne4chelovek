@@ -12,5 +12,5 @@ Appium, Selenium, Selenide и Rest Assured.
 
 
 Language and Tools:
-![image](https://github.com/ne4chelovek/ne4chelovek/assets/137280143/84fe3f83-7b3f-475c-84e3-734ea61a0812)
+
 
