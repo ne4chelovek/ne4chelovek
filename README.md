@@ -1,5 +1,4 @@
 ## Приветствую мой единственный зритель!
-![Header](https://github.com/ne4chelovek/ne4chelovek/blob/main/.idea/assets/bo-sinn-bromo.gif)
 
 ## Обо мне:
 
