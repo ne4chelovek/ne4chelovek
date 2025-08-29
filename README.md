@@ -14,4 +14,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views) ![Trophies](https://github-profile-trophy.vercel.app/?username=ne4chelovek&theme=dracula&no-bg=true&row=1&column=4)
+![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=ne4chelovek&theme=dracula&no-bg=true&row=1&column=4)
