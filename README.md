@@ -1,5 +1,5 @@
+Привет, мой единственный зритель 👋
 # 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙂𝙤𝙡𝙖𝙣𝙜
-
 ## 🧰 Технологии
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -19,8 +19,6 @@
 <br/>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ne4chelovek&theme=dracula&hide_border=true" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="70%" />
-</p>
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="70%" />
 </p>
 
