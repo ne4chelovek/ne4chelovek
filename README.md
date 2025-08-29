@@ -1,14 +1,14 @@
-<h1 align="center">Backend Engineer | Golang</h1>
+<h1 align="left">Backend Engineer | Golang</h1>
 
-<p align="center">
-  Проектирую и реализую backend-системы на Go: REST, gRPC, микросервисы, PostgreSQL, Redis и Docker.  
+<p align="left">
+  Проектирую и реализую backend-системы на Go.  
   Опыт в создании масштабируемых сервисов с мониторингом и тестированием.
 </p>
 
 ---
 
 ### 🛠 Технологии
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
