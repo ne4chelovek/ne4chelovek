@@ -13,5 +13,3 @@
 
 ---
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&langs_count=1&layout=compact&theme=dark&hide_border=true&color=00ADD8&logo=go)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views) 
