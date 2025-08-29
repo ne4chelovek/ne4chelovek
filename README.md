@@ -1,5 +1,8 @@
 Приветствую, мой единственный зритель 👋 
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views) 
+---
 
 # 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙂𝙤𝙡𝙖𝙣𝙜
 ## 🧰 Технологии
