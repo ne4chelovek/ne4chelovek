@@ -1,5 +1,4 @@
 # 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙂𝙤𝙡𝙖𝙣𝙜
----
 
 ## 🧰 Технологии
 
@@ -17,19 +16,8 @@
 ---
 
 ## 📊 Статистика
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ne4chelovek&theme=dracula&no-bg=true&row=1" alt="trophy" />
-</div>
-
 <br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ne4chelovek&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ne4chelovek&theme=dracula&hide_border=true" width="48%" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="70%" />
 </p>
-![Streak](https://streak-stats.demolab.com?user=ne4chelovek&theme=dracula&hide_border=true)
+
