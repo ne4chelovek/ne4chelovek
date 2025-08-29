@@ -18,6 +18,9 @@
 ## 📊 Статистика
 <br/>
 <p align="left">
+  <img src="https://streak-stats.demolab.com?user=ne4chelovek&theme=dracula&hide_border=true" width="48%" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="70%" />
 </p>
 
