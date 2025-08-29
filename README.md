@@ -15,4 +15,5 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views) 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ne4chelovek&theme=dracula&no-bg=true&row=1&column=4)
+![Streak](https://streak-stats.demolab.com?user=ne4chelovek&theme=dracula&hide_border=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&langs_count=1&layout=compact&theme=dark&hide_border=true&color=00ADD8&logo=go)
