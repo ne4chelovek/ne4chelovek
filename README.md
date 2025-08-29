@@ -1,7 +1,5 @@
 Приветствую, мой единственный зритель 👋 
 # 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙂𝙤𝙡𝙖𝙣𝙜
-## 🧰 Технологии
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-7959C4?style=flat-square&logo=grpc&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-1DA1F2?style=flat-square&logo=fastapi&logoColor=white)
