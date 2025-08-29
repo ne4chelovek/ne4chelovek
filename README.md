@@ -14,4 +14,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=просмотров&color=0e76a8&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views)
