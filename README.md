@@ -19,13 +19,13 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой-юзер&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-юзер&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ne4chelovek&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/contribs?username=ne4chelovek&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой-юзер&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&layout=compact&theme=radical&hide_border=true" width="100%"/>
 </p>
