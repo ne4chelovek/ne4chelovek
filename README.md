@@ -1,56 +1,31 @@
-<div align="left">
+<h1 align="center">Backend Engineer | Golang</h1>
 
-# 👨‍💻 Backend Engineer | Golang
-
-> Проектирую и реализую backend-системы на Go: от REST/gRPC API до микросервисной архитектуры с мониторингом.
-
-</div>
-
----
-
-### 🔧 Что я использую
-
-<div align="left">
-
-| Категория     | Технологии |
-|---------------|-----------|
-| Язык          | Go        |
-| БД            | PostgreSQL, Redis |
-| API           | REST, gRPC |
-| Инфраструктура| Docker, Prometheus |
-| Архитектура   | Микросервисы, шлюзы, сессии |
-
-</div>
+<p align="center">
+  Проектирую и реализую backend-системы на Go: REST, gRPC, микросервисы, PostgreSQL, Redis и Docker.  
+  Опыт в создании масштабируемых сервисов с мониторингом и тестированием.
+</p>
 
 ---
 
-### 🚀 Ключевые проекты
-
-#### ✅ **Avito Internship Task**
-> Реализация задания от Avito: сервис на Go с валидацией, тестами и PostgreSQL.  
-**Что сделал**: REST API, middleware, покрытие тестами, работа с контекстом.
-
-#### ✅ **Messenger (gRPC + REST)**
-> Два микросервиса, образующие чат: один на gRPC (логика), второй — REST-шлюз.  
-**Что реализовано**: 
-- gRPC-потоки для сообщений
-- Redis для сессий
-- Prometheus для метрик
-- Docker-образы и compose
+### 🛠 Технологии
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/gRPC-7959C4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Статистика GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой-юзер&show_icons=true&theme=onedark&hide_border=true" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-юзер&theme=onedark&hide_border=true&langs_count=6" height="180" alt="top langs"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=твой-юзер&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-юзер&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой-юзер&theme=onedark&hide_border=true" alt="streak"/>
-</div>
-
----
-
-> "Не гонюсь за количеством репозиториев. Гонюсь за качеством архитектуры."
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой-юзер&theme=radical&hide_border=true" alt="streak"/>
+</p>
