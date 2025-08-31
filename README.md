@@ -12,4 +12,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ne4chelovek&langs_count=1&layout=compact&theme=dark&hide_border=true&color=00ADD8&logo=go)
+
