@@ -1,4 +1,3 @@
-*Привет, мой единственный зритель* ![Profile Views](https://komarev.com/ghpvc/?username=ne4chelovek&label=Profile%20views&color=0e76a8&style=flat)
 # 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝘼𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝙂𝙤𝙡𝙖𝙣𝙜 | 𝙇𝙇𝙈 𝙄𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-7959C4?style=flat-square&logo=grpc&logoColor=white)
